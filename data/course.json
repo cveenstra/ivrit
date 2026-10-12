@@ -1,0 +1,2295 @@
+{
+ "units": [
+  {
+   "id": "u1",
+   "title": "Shalom!",
+   "subtitle": "Hello, thanks, yes and no",
+   "he": "שָׁלוֹם",
+   "lessons": [
+    {
+     "id": "u1-1",
+     "title": "hello, thank you, yes",
+     "icon": "👋",
+     "items": [
+      "hello",
+      "thanks",
+      "yes"
+     ],
+     "tip": "Start here: three words. Each one is shown on a card first. Hebrew is read right to left."
+    },
+    {
+     "id": "u1-2",
+     "title": "no, please & more",
+     "icon": "👋",
+     "items": [
+      "no",
+      "please",
+      "excuse-me",
+      "goodbye"
+     ]
+    },
+    {
+     "id": "u1-3",
+     "title": "good morning, good evening & more",
+     "icon": "👋",
+     "items": [
+      "good-morning",
+      "good-evening",
+      "good-night",
+      "thanks-a-lot"
+     ]
+    },
+    {
+     "id": "u1-4",
+     "title": "nice to meet you, welcome",
+     "icon": "👋",
+     "items": [
+      "nice-to-meet",
+      "welcome"
+     ],
+     "sentences": [
+      "ex-hello-0",
+      "ex-hello-1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "title": "Me & you",
+   "subtitle": "I, you, he and she: every one has a gender",
+   "he": "אֲנִי",
+   "lessons": [
+    {
+     "id": "u2-1",
+     "title": "I, you, he",
+     "icon": "🧑",
+     "items": [
+      "i",
+      "you-m",
+      "you-f",
+      "he"
+     ],
+     "tip": "Hebrew has two words for \"you\": אַתָּה to a man, אַתְּ to a woman."
+    },
+    {
+     "id": "u2-2",
+     "title": "she, we, you",
+     "icon": "🧑",
+     "items": [
+      "she",
+      "we",
+      "you-mp",
+      "you-fp"
+     ]
+    },
+    {
+     "id": "u2-3",
+     "title": "they, man, woman",
+     "icon": "🧑",
+     "items": [
+      "they-m",
+      "they-f",
+      "man",
+      "woman"
+     ]
+    },
+    {
+     "id": "u2-4",
+     "title": "boy, girl & more",
+     "icon": "🧑",
+     "items": [
+      "boy",
+      "girl",
+      "name",
+      "friend-m"
+     ]
+    },
+    {
+     "id": "u2-5",
+     "title": "friend, human",
+     "icon": "🧑",
+     "items": [
+      "friend-f",
+      "person"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "title": "Everyday talk",
+   "subtitle": "Okay, yalla, cool: how Israelis really talk",
+   "he": "בְּסֵדֶר",
+   "lessons": [
+    {
+     "id": "u3-1",
+     "title": "okay, come on & more",
+     "icon": "💬",
+     "items": [
+      "okay",
+      "yalla",
+      "sababa",
+      "achla"
+     ],
+     "tip": "These are everyday, informal words: perfect with friends."
+    },
+    {
+     "id": "u3-2",
+     "title": "bye, what's up? & more",
+     "icon": "💬",
+     "items": [
+      "bye",
+      "whats-up",
+      "fine",
+      "really"
+     ]
+    },
+    {
+     "id": "u3-3",
+     "title": "maybe, very & more",
+     "icon": "💬",
+     "items": [
+      "maybe",
+      "very",
+      "congrats",
+      "shabbat-shalom"
+     ]
+    },
+    {
+     "id": "u3-4",
+     "title": "holiday greeting, a toast, bon appetit",
+     "icon": "💬",
+     "items": [
+      "happy-holiday",
+      "cheers",
+      "bon-appetit"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "title": "Food & drink",
+   "subtitle": "Bread, water, coffee and falafel",
+   "he": "אֹֽכֶל",
+   "lessons": [
+    {
+     "id": "u4-1",
+     "title": "water, bread & more",
+     "icon": "🥙",
+     "items": [
+      "water",
+      "bread",
+      "coffee",
+      "tea"
+     ]
+    },
+    {
+     "id": "u4-2",
+     "title": "milk, food & more",
+     "icon": "🥙",
+     "items": [
+      "milk",
+      "food",
+      "falafel",
+      "hummus"
+     ]
+    },
+    {
+     "id": "u4-3",
+     "title": "pita, salad & more",
+     "icon": "🥙",
+     "items": [
+      "pita",
+      "salad",
+      "egg",
+      "cheese"
+     ]
+    },
+    {
+     "id": "u4-4",
+     "title": "chicken, meat & more",
+     "icon": "🥙",
+     "items": [
+      "chicken",
+      "meat",
+      "fish",
+      "rice"
+     ]
+    },
+    {
+     "id": "u4-5",
+     "title": "soup, schnitzel & more",
+     "icon": "🥙",
+     "items": [
+      "soup",
+      "schnitzel",
+      "wine",
+      "beer"
+     ]
+    },
+    {
+     "id": "u4-6",
+     "title": "juice",
+     "icon": "🥙",
+     "items": [
+      "juice"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "title": "First verbs",
+   "subtitle": "Eat, drink, want, love: one form for each kind of subject",
+   "he": "אוֹכֵל",
+   "lessons": [
+    {
+     "id": "u5-1",
+     "title": "Eat",
+     "icon": "🍽️",
+     "items": [
+      "eat-ms",
+      "eat-fs",
+      "eat-mp",
+      "eat-fp"
+     ],
+     "tip": "Present-tense verbs have four forms: man, woman, men (or a mixed group), women. A man says אֲנִי אוֹכֵל, a woman אֲנִי אוֹכֶלֶת.",
+     "sentences": [
+      "c-i-eat-bread-m",
+      "c-i-eat-bread-f"
+     ]
+    },
+    {
+     "id": "u5-2",
+     "title": "Drink",
+     "icon": "🍽️",
+     "items": [
+      "drink-ms",
+      "drink-fs",
+      "drink-mp",
+      "drink-fp"
+     ],
+     "sentences": [
+      "c-he-drinks-water",
+      "c-she-drinks-tea"
+     ]
+    },
+    {
+     "id": "u5-3",
+     "title": "Want",
+     "icon": "🍽️",
+     "items": [
+      "want-ms",
+      "want-fs",
+      "want-mp",
+      "want-fp"
+     ],
+     "sentences": [
+      "c-we-eat-falafel",
+      "c-they-drink-beer"
+     ]
+    },
+    {
+     "id": "u5-4",
+     "title": "Love",
+     "icon": "🍽️",
+     "items": [
+      "love-ms",
+      "love-fs",
+      "love-mp",
+      "love-fp"
+     ],
+     "sentences": [
+      "c-i-want-water-m",
+      "c-i-want-coffee-f"
+     ]
+    },
+    {
+     "id": "u5-5",
+     "title": "Need",
+     "icon": "🍽️",
+     "items": [
+      "need-ms",
+      "need-fs",
+      "need-mp",
+      "need-fp"
+     ],
+     "sentences": [
+      "c-you-want-coffee-m",
+      "c-you-want-tea-f"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "title": "Family",
+   "subtitle": "Mom, dad and the rest of them",
+   "he": "מִשְׁפָּחָה",
+   "lessons": [
+    {
+     "id": "u6-1",
+     "title": "mother, father & more",
+     "icon": "👪",
+     "items": [
+      "mom",
+      "dad",
+      "brother",
+      "sister"
+     ],
+     "sentences": [
+      "c-i-love-coffee-m"
+     ]
+    },
+    {
+     "id": "u6-2",
+     "title": "son, daughter & more",
+     "icon": "👪",
+     "items": [
+      "son",
+      "daughter",
+      "family",
+      "grandpa"
+     ]
+    },
+    {
+     "id": "u6-3",
+     "title": "grandmother, uncle & more",
+     "icon": "👪",
+     "items": [
+      "grandma",
+      "uncle",
+      "aunt",
+      "husband"
+     ]
+    },
+    {
+     "id": "u6-4",
+     "title": "cousin, baby & more",
+     "icon": "👪",
+     "items": [
+      "cousin",
+      "baby",
+      "twins",
+      "wedding"
+     ]
+    },
+    {
+     "id": "u6-5",
+     "title": "house",
+     "icon": "👪",
+     "items": [
+      "home"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u7",
+   "title": "Numbers",
+   "subtitle": "Counting from zero to a million",
+   "he": "מִסְפָּר",
+   "lessons": [
+    {
+     "id": "u7-1",
+     "title": "zero, one & more",
+     "icon": "🔢",
+     "items": [
+      "zero",
+      "one-f",
+      "two-f",
+      "three-f"
+     ],
+     "tip": "Counting (one, two, three…) uses the feminine forms. With a masculine noun you use the masculine ones."
+    },
+    {
+     "id": "u7-2",
+     "title": "four, five & more",
+     "icon": "🔢",
+     "items": [
+      "four-f",
+      "five-f",
+      "seven-f",
+      "eight-f"
+     ]
+    },
+    {
+     "id": "u7-3",
+     "title": "nine, ten & more",
+     "icon": "🔢",
+     "items": [
+      "nine-f",
+      "ten-f",
+      "one-m",
+      "two-m"
+     ]
+    },
+    {
+     "id": "u7-4",
+     "title": "three, four & more",
+     "icon": "🔢",
+     "items": [
+      "three-m",
+      "four-m",
+      "five-m",
+      "six-m"
+     ]
+    },
+    {
+     "id": "u7-5",
+     "title": "seven, nine & more",
+     "icon": "🔢",
+     "items": [
+      "seven-m",
+      "nine-m",
+      "ten-m",
+      "twenty"
+     ]
+    },
+    {
+     "id": "u7-6",
+     "title": "thirty, forty & more",
+     "icon": "🔢",
+     "items": [
+      "thirty",
+      "forty",
+      "fifty",
+      "hundred"
+     ]
+    },
+    {
+     "id": "u7-7",
+     "title": "two hundred, thousand & more",
+     "icon": "🔢",
+     "items": [
+      "two-hundred",
+      "thousand",
+      "million",
+      "number"
+     ]
+    },
+    {
+     "id": "u7-8",
+     "title": "first, second",
+     "icon": "🔢",
+     "items": [
+      "first",
+      "first-f",
+      "second",
+      "second-f"
+     ]
+    },
+    {
+     "id": "u7-9",
+     "title": "half, a lot & more",
+     "icon": "🔢",
+     "items": [
+      "half",
+      "many",
+      "little",
+      "more"
+     ],
+     "sentences": [
+      "c-i-want-more-m",
+      "ex-one-m-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8",
+   "title": "Describing things",
+   "subtitle": "Good, big, new: adjectives come after the noun",
+   "he": "טוֹב",
+   "lessons": [
+    {
+     "id": "u8-1",
+     "title": "good, bad",
+     "icon": "✨",
+     "items": [
+      "good",
+      "good-f",
+      "bad",
+      "bad-f"
+     ],
+     "tip": "Adjectives follow the noun and agree with it: a masculine noun takes the masculine form, a feminine noun the feminine one."
+    },
+    {
+     "id": "u8-2",
+     "title": "big, small",
+     "icon": "✨",
+     "items": [
+      "big",
+      "big-f",
+      "small",
+      "small-f"
+     ],
+     "sentences": [
+      "c-small-boy",
+      "c-small-girl"
+     ]
+    },
+    {
+     "id": "u8-3",
+     "title": "new, old",
+     "icon": "✨",
+     "items": [
+      "new",
+      "new-f",
+      "old",
+      "old-f"
+     ],
+     "sentences": [
+      "c-big-house"
+     ]
+    },
+    {
+     "id": "u8-4",
+     "title": "beautiful, hot",
+     "icon": "✨",
+     "items": [
+      "beautiful",
+      "beautiful-f",
+      "hot",
+      "hot-f"
+     ],
+     "sentences": [
+      "c-hot-coffee"
+     ]
+    },
+    {
+     "id": "u8-5",
+     "title": "cold, easy",
+     "icon": "✨",
+     "items": [
+      "cold",
+      "cold-f",
+      "easy",
+      "easy-f"
+     ]
+    },
+    {
+     "id": "u8-6",
+     "title": "hard, long",
+     "icon": "✨",
+     "items": [
+      "hard",
+      "hard-f",
+      "long",
+      "long-f"
+     ]
+    },
+    {
+     "id": "u8-7",
+     "title": "short, young",
+     "icon": "✨",
+     "items": [
+      "short",
+      "short-f",
+      "young",
+      "young-f"
+     ]
+    },
+    {
+     "id": "u8-8",
+     "title": "strong, clean",
+     "icon": "✨",
+     "items": [
+      "strong",
+      "strong-f",
+      "clean",
+      "clean-f"
+     ]
+    },
+    {
+     "id": "u8-9",
+     "title": "sweet, quiet",
+     "icon": "✨",
+     "items": [
+      "sweet",
+      "sweet-f",
+      "quiet",
+      "quiet-f"
+     ]
+    },
+    {
+     "id": "u8-10",
+     "title": "nice, important",
+     "icon": "✨",
+     "items": [
+      "nice",
+      "nice-f",
+      "important",
+      "important-f"
+     ]
+    },
+    {
+     "id": "u8-11",
+     "title": "interesting, correct",
+     "icon": "✨",
+     "items": [
+      "interesting",
+      "interesting-f",
+      "right-correct",
+      "right-correct-f"
+     ]
+    },
+    {
+     "id": "u8-12",
+     "title": "exceptional",
+     "icon": "✨",
+     "items": [
+      "excellent",
+      "excellent-f"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9",
+   "title": "Questions",
+   "subtitle": "What, who, where, when and why",
+   "he": "מָה",
+   "lessons": [
+    {
+     "id": "u9-1",
+     "title": "what, who & more",
+     "icon": "❓",
+     "items": [
+      "what",
+      "who",
+      "where",
+      "when"
+     ],
+     "tip": "There is no \"is\" in the present: מַה זֶה? is literally \"what this?\"."
+    },
+    {
+     "id": "u9-2",
+     "title": "why, how & more",
+     "icon": "❓",
+     "items": [
+      "why",
+      "how",
+      "how-much",
+      "which"
+     ]
+    },
+    {
+     "id": "u9-3",
+     "title": "question particle, this, there is",
+     "icon": "❓",
+     "items": [
+      "is-it",
+      "this-m",
+      "this-f",
+      "there-is"
+     ],
+     "sentences": [
+      "c-this-good",
+      "c-this-important"
+     ]
+    },
+    {
+     "id": "u9-4",
+     "title": "there is not, also & more",
+     "icon": "❓",
+     "items": [
+      "there-isnt",
+      "also",
+      "only",
+      "with"
+     ],
+     "sentences": [
+      "c-what-is-this",
+      "c-who-is-this"
+     ]
+    },
+    {
+     "id": "u9-5",
+     "title": "without, but & more",
+     "icon": "❓",
+     "items": [
+      "without",
+      "but",
+      "because",
+      "if"
+     ],
+     "sentences": [
+      "c-how-much-is-this",
+      "c-where-is-it"
+     ]
+    },
+    {
+     "id": "u9-6",
+     "title": "or, so & more",
+     "icon": "❓",
+     "items": [
+      "or",
+      "so",
+      "of",
+      "like"
+     ],
+     "sentences": [
+      "c-there-is-water"
+     ]
+    },
+    {
+     "id": "u9-7",
+     "title": "all, thing & more",
+     "icon": "❓",
+     "items": [
+      "all",
+      "thing",
+      "something",
+      "together"
+     ]
+    },
+    {
+     "id": "u9-8",
+     "title": "enough",
+     "icon": "❓",
+     "items": [
+      "enough"
+     ],
+     "sentences": [
+      "ex-is-it-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "title": "Around town",
+   "subtitle": "Streets, shops and finding your way",
+   "he": "עִיר",
+   "lessons": [
+    {
+     "id": "u10-1",
+     "title": "here, there, right",
+     "icon": "🏙️",
+     "items": [
+      "here",
+      "there",
+      "here2",
+      "right"
+     ]
+    },
+    {
+     "id": "u10-2",
+     "title": "left, straight, near",
+     "icon": "🏙️",
+     "items": [
+      "left",
+      "straight",
+      "straight-f",
+      "near"
+     ],
+     "sentences": [
+      "c-this-near"
+     ]
+    },
+    {
+     "id": "u10-3",
+     "title": "far, street",
+     "icon": "🏙️",
+     "items": [
+      "near-f",
+      "far",
+      "far-f",
+      "street"
+     ],
+     "sentences": [
+      "c-this-not-far"
+     ]
+    },
+    {
+     "id": "u10-4",
+     "title": "city, toilet & more",
+     "icon": "🏙️",
+     "items": [
+      "city",
+      "toilet",
+      "station",
+      "hotel"
+     ],
+     "sentences": [
+      "c-beautiful-city"
+     ]
+    },
+    {
+     "id": "u10-5",
+     "title": "apartment, store & more",
+     "icon": "🏙️",
+     "items": [
+      "apartment",
+      "store",
+      "market",
+      "bank"
+     ]
+    },
+    {
+     "id": "u10-6",
+     "title": "hospital, school & more",
+     "icon": "🏙️",
+     "items": [
+      "hospital",
+      "school",
+      "university",
+      "sea"
+     ]
+    },
+    {
+     "id": "u10-7",
+     "title": "beach, airport & more",
+     "icon": "🏙️",
+     "items": [
+      "beach",
+      "airport",
+      "country",
+      "israel"
+     ]
+    },
+    {
+     "id": "u10-8",
+     "title": "Jerusalem, Tel Aviv & more",
+     "icon": "🏙️",
+     "items": [
+      "jerusalem",
+      "tel-aviv",
+      "synagogue",
+      "museum"
+     ]
+    },
+    {
+     "id": "u10-9",
+     "title": "office, pharmacy & more",
+     "icon": "🏙️",
+     "items": [
+      "office",
+      "pharmacy",
+      "kiosk",
+      "room"
+     ]
+    },
+    {
+     "id": "u10-10",
+     "title": "north, south & more",
+     "icon": "🏙️",
+     "items": [
+      "north",
+      "south",
+      "inside",
+      "outside"
+     ]
+    },
+    {
+     "id": "u10-11",
+     "title": "up, down & more",
+     "icon": "🏙️",
+     "items": [
+      "up",
+      "down",
+      "next-to",
+      "between"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "title": "Getting around",
+   "subtitle": "Bus, train, taxi",
+   "he": "אוֹטוֹבּוּס",
+   "lessons": [
+    {
+     "id": "u11-1",
+     "title": "bus, train & more",
+     "icon": "🚌",
+     "items": [
+      "bus",
+      "train",
+      "taxi",
+      "car"
+     ],
+     "sentences": [
+      "c-i-need-taxi-m",
+      "c-new-car"
+     ]
+    },
+    {
+     "id": "u11-2",
+     "title": "car, bicycle & more",
+     "icon": "🚌",
+     "items": [
+      "car2",
+      "bicycle",
+      "plane",
+      "ticket"
+     ]
+    },
+    {
+     "id": "u11-3",
+     "title": "road, way & more",
+     "icon": "🚌",
+     "items": [
+      "road",
+      "way",
+      "passport",
+      "suitcase"
+     ]
+    },
+    {
+     "id": "u11-4",
+     "title": "map, tour & more",
+     "icon": "🚌",
+     "items": [
+      "map",
+      "trip",
+      "driver",
+      "ship"
+     ]
+    },
+    {
+     "id": "u11-5",
+     "title": "Go",
+     "icon": "🚌",
+     "items": [
+      "go-ms",
+      "go-fs",
+      "go-mp",
+      "go-fp"
+     ]
+    },
+    {
+     "id": "u11-6",
+     "title": "Come",
+     "icon": "🚌",
+     "items": [
+      "come-ms",
+      "come-fs",
+      "come-mp",
+      "come-fp"
+     ]
+    },
+    {
+     "id": "u11-7",
+     "title": "Travel",
+     "icon": "🚌",
+     "items": [
+      "travel-ms",
+      "travel-fs",
+      "travel-mp",
+      "travel-fp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "title": "Time & days",
+   "subtitle": "Today, tomorrow and the days of the week",
+   "he": "הַיּוֹם",
+   "lessons": [
+    {
+     "id": "u12-1",
+     "title": "today, tomorrow & more",
+     "icon": "📅",
+     "items": [
+      "today",
+      "tomorrow",
+      "yesterday",
+      "now"
+     ],
+     "sentences": [
+      "c-you-come-tomorrow-m",
+      "c-we-travel-tomorrow"
+     ]
+    },
+    {
+     "id": "u12-2",
+     "title": "day, night & more",
+     "icon": "📅",
+     "items": [
+      "day",
+      "night",
+      "morning",
+      "evening"
+     ],
+     "sentences": [
+      "c-good-day",
+      "c-today-hot"
+     ]
+    },
+    {
+     "id": "u12-3",
+     "title": "noon, later & more",
+     "icon": "📅",
+     "items": [
+      "noon",
+      "later",
+      "week",
+      "month"
+     ],
+     "sentences": [
+      "c-not-now"
+     ]
+    },
+    {
+     "id": "u12-4",
+     "title": "year, hour & more",
+     "icon": "📅",
+     "items": [
+      "year",
+      "hour",
+      "minute",
+      "sunday"
+     ]
+    },
+    {
+     "id": "u12-5",
+     "title": "Monday, Tuesday & more",
+     "icon": "📅",
+     "items": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday"
+     ]
+    },
+    {
+     "id": "u12-6",
+     "title": "Friday, Saturday & more",
+     "icon": "📅",
+     "items": [
+      "friday",
+      "saturday",
+      "weekend",
+      "time"
+     ],
+     "sentences": [
+      "c-there-is-no-time"
+     ]
+    },
+    {
+     "id": "u12-7",
+     "title": "always, never & more",
+     "icon": "📅",
+     "items": [
+      "always",
+      "never",
+      "sometimes",
+      "already"
+     ]
+    },
+    {
+     "id": "u12-8",
+     "title": "again, soon, early",
+     "icon": "📅",
+     "items": [
+      "again",
+      "soon",
+      "early",
+      "early-f"
+     ]
+    },
+    {
+     "id": "u12-9",
+     "title": "late, holiday, birthday",
+     "icon": "📅",
+     "items": [
+      "late",
+      "late-f",
+      "holiday",
+      "birthday"
+     ]
+    },
+    {
+     "id": "u12-10",
+     "title": "summer, winter & more",
+     "icon": "📅",
+     "items": [
+      "summer",
+      "winter",
+      "spring",
+      "autumn"
+     ],
+     "sentences": [
+      "ex-hour-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u13",
+   "title": "Shopping",
+   "subtitle": "How much is it? Prices, sales and paying",
+   "he": "כֶּסֶף",
+   "lessons": [
+    {
+     "id": "u13-1",
+     "title": "money, shekel & more",
+     "icon": "🛍️",
+     "items": [
+      "money",
+      "shekel",
+      "price",
+      "bag"
+     ]
+    },
+    {
+     "id": "u13-2",
+     "title": "receipt, discount & more",
+     "icon": "🛍️",
+     "items": [
+      "receipt",
+      "discount",
+      "cash",
+      "sale"
+     ]
+    },
+    {
+     "id": "u13-3",
+     "title": "size, gift & more",
+     "icon": "🛍️",
+     "items": [
+      "size",
+      "gift",
+      "credit-card",
+      "change-money"
+     ]
+    },
+    {
+     "id": "u13-4",
+     "title": "expensive, cheap",
+     "icon": "🛍️",
+     "items": [
+      "expensive",
+      "expensive-f",
+      "cheap",
+      "cheap-f"
+     ],
+     "sentences": [
+      "c-this-expensive",
+      "c-this-cheap"
+     ]
+    },
+    {
+     "id": "u13-5",
+     "title": "open, closed",
+     "icon": "🛍️",
+     "items": [
+      "open",
+      "open-f",
+      "closed",
+      "closed-f"
+     ]
+    },
+    {
+     "id": "u13-6",
+     "title": "Buy",
+     "icon": "🛍️",
+     "items": [
+      "buy-ms",
+      "buy-fs",
+      "buy-mp",
+      "buy-fp"
+     ],
+     "sentences": [
+      "c-they-buy-bread-f",
+      "c-i-buy-gift-m"
+     ]
+    },
+    {
+     "id": "u13-7",
+     "title": "Pay",
+     "icon": "🛍️",
+     "items": [
+      "pay-ms",
+      "pay-fs",
+      "pay-mp",
+      "pay-fp"
+     ],
+     "sentences": [
+      "c-he-pays-now"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u14",
+   "title": "Feelings",
+   "subtitle": "Happy, tired, hungry: describing yourself",
+   "he": "שָׂמֵחַ",
+   "lessons": [
+    {
+     "id": "u14-1",
+     "title": "happy, sad",
+     "icon": "😊",
+     "items": [
+      "happy",
+      "happy-f",
+      "sad",
+      "sad-f"
+     ],
+     "tip": "No \"am\" or \"is\" needed: אֲנִי עָיֵף \"I (am) tired\". Women say אֲנִי עֲיֵפָה.",
+     "sentences": [
+      "c-she-happy"
+     ]
+    },
+    {
+     "id": "u14-2",
+     "title": "tired, hungry",
+     "icon": "😊",
+     "items": [
+      "tired",
+      "tired-f",
+      "hungry",
+      "hungry-f"
+     ],
+     "sentences": [
+      "c-he-tired",
+      "c-she-tired"
+     ]
+    },
+    {
+     "id": "u14-3",
+     "title": "thirsty, busy",
+     "icon": "😊",
+     "items": [
+      "thirsty",
+      "thirsty-f",
+      "busy",
+      "busy-f"
+     ],
+     "sentences": [
+      "c-i-hungry-m",
+      "c-i-hungry-f"
+     ]
+    },
+    {
+     "id": "u14-4",
+     "title": "ready, funny",
+     "icon": "😊",
+     "items": [
+      "ready",
+      "ready-f",
+      "funny",
+      "funny-f"
+     ],
+     "sentences": [
+      "c-he-busy",
+      "c-i-ready-f"
+     ]
+    },
+    {
+     "id": "u14-5",
+     "title": "crazy, love, joy",
+     "icon": "😊",
+     "items": [
+      "crazy",
+      "crazy-f",
+      "love-noun",
+      "glad"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u15",
+   "title": "Everyday verbs",
+   "subtitle": "Live, work, speak, study",
+   "he": "מְדַבֵּר",
+   "lessons": [
+    {
+     "id": "u15-1",
+     "title": "Live",
+     "icon": "🗣️",
+     "items": [
+      "live-ms",
+      "live-fs",
+      "live-mp",
+      "live-fp"
+     ],
+     "sentences": [
+      "c-i-live-here-m",
+      "c-we-live-here"
+     ]
+    },
+    {
+     "id": "u15-2",
+     "title": "Work",
+     "icon": "🗣️",
+     "items": [
+      "work-v-ms",
+      "work-v-fs",
+      "work-v-mp",
+      "work-v-fp"
+     ],
+     "sentences": [
+      "c-she-works-now"
+     ]
+    },
+    {
+     "id": "u15-3",
+     "title": "Speak",
+     "icon": "🗣️",
+     "items": [
+      "speak-ms",
+      "speak-fs",
+      "speak-mp",
+      "speak-fp"
+     ]
+    },
+    {
+     "id": "u15-4",
+     "title": "Learn",
+     "icon": "🗣️",
+     "items": [
+      "study-ms",
+      "study-fs",
+      "study-mp",
+      "study-fp"
+     ]
+    },
+    {
+     "id": "u15-5",
+     "title": "Read",
+     "icon": "🗣️",
+     "items": [
+      "read-ms",
+      "read-fs",
+      "read-mp",
+      "read-fp"
+     ]
+    },
+    {
+     "id": "u15-6",
+     "title": "Write",
+     "icon": "🗣️",
+     "items": [
+      "write-ms",
+      "write-fs",
+      "write-mp",
+      "write-fp"
+     ]
+    },
+    {
+     "id": "u15-7",
+     "title": "Know",
+     "icon": "🗣️",
+     "items": [
+      "know-ms",
+      "know-fs",
+      "know-mp",
+      "know-fp"
+     ],
+     "sentences": [
+      "c-i-dont-know-m",
+      "c-i-dont-know-f"
+     ]
+    },
+    {
+     "id": "u15-8",
+     "title": "Understand",
+     "icon": "🗣️",
+     "items": [
+      "understand-ms",
+      "understand-fs",
+      "understand-mp",
+      "understand-fp"
+     ],
+     "sentences": [
+      "c-i-dont-understand-m",
+      "c-i-dont-understand-f"
+     ]
+    },
+    {
+     "id": "u15-9",
+     "title": "Think",
+     "icon": "🗣️",
+     "items": [
+      "think-ms",
+      "think-fs",
+      "think-mp",
+      "think-fp"
+     ]
+    },
+    {
+     "id": "u15-10",
+     "title": "Say",
+     "icon": "🗣️",
+     "items": [
+      "say-ms",
+      "say-fs",
+      "say-mp",
+      "say-fp"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u16",
+   "title": "At home",
+   "subtitle": "Rooms, furniture and things",
+   "he": "דֶּלֶת",
+   "lessons": [
+    {
+     "id": "u16-1",
+     "title": "door, window & more",
+     "icon": "🏠",
+     "items": [
+      "door",
+      "window",
+      "table",
+      "chair"
+     ]
+    },
+    {
+     "id": "u16-2",
+     "title": "bed, kitchen & more",
+     "icon": "🏠",
+     "items": [
+      "bed",
+      "kitchen",
+      "shower",
+      "phone"
+     ]
+    },
+    {
+     "id": "u16-3",
+     "title": "mobile phone, computer & more",
+     "icon": "🏠",
+     "items": [
+      "cellphone",
+      "computer",
+      "book",
+      "pen"
+     ],
+     "sentences": [
+      "c-he-reads-book"
+     ]
+    },
+    {
+     "id": "u16-4",
+     "title": "key, bag & more",
+     "icon": "🏠",
+     "items": [
+      "key",
+      "bag-handbag",
+      "clothes",
+      "light"
+     ]
+    },
+    {
+     "id": "u16-5",
+     "title": "picture, television & more",
+     "icon": "🏠",
+     "items": [
+      "picture",
+      "television",
+      "refrigerator",
+      "newspaper"
+     ]
+    },
+    {
+     "id": "u16-6",
+     "title": "letter, paper & more",
+     "icon": "🏠",
+     "items": [
+      "letter-mail",
+      "paper",
+      "box",
+      "garden"
+     ],
+     "sentences": [
+      "c-she-writes-letter"
+     ]
+    },
+    {
+     "id": "u16-7",
+     "title": "wall, floor & more",
+     "icon": "🏠",
+     "items": [
+      "wall",
+      "floor",
+      "roof",
+      "balcony"
+     ]
+    },
+    {
+     "id": "u16-8",
+     "title": "stairs, elevator & more",
+     "icon": "🏠",
+     "items": [
+      "stairs",
+      "elevator",
+      "neighborhood",
+      "neighbor"
+     ]
+    },
+    {
+     "id": "u16-9",
+     "title": "guest",
+     "icon": "🏠",
+     "items": [
+      "guest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u17",
+   "title": "Body & health",
+   "subtitle": "Head, hand, heart and the doctor",
+   "he": "רֹאשׁ",
+   "lessons": [
+    {
+     "id": "u17-1",
+     "title": "head, hand & more",
+     "icon": "🩺",
+     "items": [
+      "head",
+      "hand",
+      "leg",
+      "eye"
+     ]
+    },
+    {
+     "id": "u17-2",
+     "title": "ear, mouth & more",
+     "icon": "🩺",
+     "items": [
+      "ear",
+      "mouth",
+      "nose",
+      "heart"
+     ]
+    },
+    {
+     "id": "u17-3",
+     "title": "belly, back & more",
+     "icon": "🩺",
+     "items": [
+      "stomach",
+      "back",
+      "tooth",
+      "hair"
+     ]
+    },
+    {
+     "id": "u17-4",
+     "title": "face, body & more",
+     "icon": "🩺",
+     "items": [
+      "face",
+      "body",
+      "doctor",
+      "nurse"
+     ],
+     "sentences": [
+      "c-she-needs-doctor"
+     ]
+    },
+    {
+     "id": "u17-5",
+     "title": "medicine, pain & more",
+     "icon": "🩺",
+     "items": [
+      "medicine",
+      "pain",
+      "fever",
+      "blood"
+     ]
+    },
+    {
+     "id": "u17-6",
+     "title": "help, emergency, ambulance",
+     "icon": "🩺",
+     "items": [
+      "help",
+      "emergency",
+      "ambulance"
+     ]
+    },
+    {
+     "id": "u17-7",
+     "title": "sick, healthy",
+     "icon": "🩺",
+     "items": [
+      "sick",
+      "sick-f",
+      "healthy",
+      "healthy-f"
+     ],
+     "sentences": [
+      "c-he-sick"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u18",
+   "title": "Kitchen & table",
+   "subtitle": "Fruit, vegetables and everything on the table",
+   "he": "פְּרִי",
+   "lessons": [
+    {
+     "id": "u18-1",
+     "title": "fruit, vegetable & more",
+     "icon": "🍎",
+     "items": [
+      "fruit",
+      "vegetable",
+      "apple",
+      "banana"
+     ]
+    },
+    {
+     "id": "u18-2",
+     "title": "orange, tomato & more",
+     "icon": "🍎",
+     "items": [
+      "orange",
+      "tomato",
+      "cucumber",
+      "potato"
+     ]
+    },
+    {
+     "id": "u18-3",
+     "title": "onion, lemon & more",
+     "icon": "🍎",
+     "items": [
+      "onion",
+      "lemon",
+      "grape",
+      "watermelon"
+     ]
+    },
+    {
+     "id": "u18-4",
+     "title": "olive, oil & more",
+     "icon": "🍎",
+     "items": [
+      "olive",
+      "oil",
+      "sugar",
+      "salt"
+     ]
+    },
+    {
+     "id": "u18-5",
+     "title": "honey, chocolate & more",
+     "icon": "🍎",
+     "items": [
+      "honey",
+      "chocolate",
+      "cake",
+      "ice-cream"
+     ],
+     "sentences": [
+      "c-she-loves-chocolate"
+     ]
+    },
+    {
+     "id": "u18-6",
+     "title": "cup, plate & more",
+     "icon": "🍎",
+     "items": [
+      "cup",
+      "plate",
+      "fork",
+      "knife"
+     ]
+    },
+    {
+     "id": "u18-7",
+     "title": "spoon, breakfast & more",
+     "icon": "🍎",
+     "items": [
+      "spoon",
+      "breakfast",
+      "dinner",
+      "meal"
+     ]
+    },
+    {
+     "id": "u18-8",
+     "title": "restaurant, menu, bill",
+     "icon": "🍎",
+     "items": [
+      "restaurant",
+      "menu",
+      "bill"
+     ]
+    },
+    {
+     "id": "u18-9",
+     "title": "tasty",
+     "icon": "🍎",
+     "items": [
+      "tasty",
+      "tasty-f"
+     ],
+     "sentences": [
+      "c-this-tasty"
+     ]
+    },
+    {
+     "id": "u18-10",
+     "title": "Cook",
+     "icon": "🍎",
+     "items": [
+      "cook-ms",
+      "cook-fs",
+      "cook-mp",
+      "cook-fp"
+     ],
+     "sentences": [
+      "c-he-cooks-soup"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u19",
+   "title": "Weather & nature",
+   "subtitle": "Sun, rain, sea and sky",
+   "he": "שֶׁמֶשׁ",
+   "lessons": [
+    {
+     "id": "u19-1",
+     "title": "sun, rain & more",
+     "icon": "🌤️",
+     "items": [
+      "sun",
+      "rain",
+      "wind",
+      "cloud"
+     ]
+    },
+    {
+     "id": "u19-2",
+     "title": "snow, weather & more",
+     "icon": "🌤️",
+     "items": [
+      "snow",
+      "weather",
+      "air",
+      "sky"
+     ]
+    },
+    {
+     "id": "u19-3",
+     "title": "tree, flower & more",
+     "icon": "🌤️",
+     "items": [
+      "tree",
+      "flower",
+      "mountain",
+      "river"
+     ]
+    },
+    {
+     "id": "u19-4",
+     "title": "lake, desert & more",
+     "icon": "🌤️",
+     "items": [
+      "lake",
+      "desert",
+      "forest",
+      "sand"
+     ]
+    },
+    {
+     "id": "u19-5",
+     "title": "moon, star & more",
+     "icon": "🌤️",
+     "items": [
+      "moon",
+      "star",
+      "earth",
+      "stone"
+     ]
+    },
+    {
+     "id": "u19-6",
+     "title": "fire, world",
+     "icon": "🌤️",
+     "items": [
+      "fire",
+      "world"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u20",
+   "title": "Colours & clothes",
+   "subtitle": "Red, blue, white: colours agree too",
+   "he": "צֶבַע",
+   "lessons": [
+    {
+     "id": "u20-1",
+     "title": "color, red",
+     "icon": "🎨",
+     "items": [
+      "color",
+      "red",
+      "red-f"
+     ]
+    },
+    {
+     "id": "u20-2",
+     "title": "blue, green",
+     "icon": "🎨",
+     "items": [
+      "blue",
+      "blue-f",
+      "green",
+      "green-f"
+     ]
+    },
+    {
+     "id": "u20-3",
+     "title": "yellow, white",
+     "icon": "🎨",
+     "items": [
+      "yellow",
+      "yellow-f",
+      "white",
+      "white-f"
+     ]
+    },
+    {
+     "id": "u20-4",
+     "title": "black, brown",
+     "icon": "🎨",
+     "items": [
+      "black",
+      "black-f",
+      "brown",
+      "brown-f"
+     ]
+    },
+    {
+     "id": "u20-5",
+     "title": "pink, purple",
+     "icon": "🎨",
+     "items": [
+      "pink",
+      "pink-f",
+      "purple",
+      "purple-f"
+     ]
+    },
+    {
+     "id": "u20-6",
+     "title": "orange, grey",
+     "icon": "🎨",
+     "items": [
+      "orange-color",
+      "orange-color-f",
+      "gray",
+      "gray-f"
+     ]
+    },
+    {
+     "id": "u20-7",
+     "title": "shirt, trousers & more",
+     "icon": "🎨",
+     "items": [
+      "shirt",
+      "pants",
+      "dress",
+      "hat"
+     ],
+     "sentences": [
+      "c-red-dress"
+     ]
+    },
+    {
+     "id": "u20-8",
+     "title": "shoe, coat & more",
+     "icon": "🎨",
+     "items": [
+      "shoe",
+      "coat",
+      "skirt",
+      "glasses"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u21",
+   "title": "Work & study",
+   "subtitle": "School, work and learning Hebrew",
+   "he": "עֲבוֹדָה",
+   "lessons": [
+    {
+     "id": "u21-1",
+     "title": "work, teacher & more",
+     "icon": "📚",
+     "items": [
+      "work",
+      "teacher",
+      "student",
+      "student-uni"
+     ]
+    },
+    {
+     "id": "u21-2",
+     "title": "class, lesson & more",
+     "icon": "📚",
+     "items": [
+      "class",
+      "lesson",
+      "homework",
+      "test"
+     ]
+    },
+    {
+     "id": "u21-3",
+     "title": "notebook, Hebrew & more",
+     "icon": "📚",
+     "items": [
+      "notebook",
+      "hebrew",
+      "english",
+      "language"
+     ],
+     "sentences": [
+      "c-you-speak-hebrew-m",
+      "c-you-speak-hebrew-f"
+     ]
+    },
+    {
+     "id": "u21-4",
+     "title": "word, question & more",
+     "icon": "📚",
+     "items": [
+      "word",
+      "question",
+      "answer",
+      "problem"
+     ],
+     "sentences": [
+      "c-i-speak-english-m",
+      "c-i-speak-english-f"
+     ]
+    },
+    {
+     "id": "u21-5",
+     "title": "idea, meeting & more",
+     "icon": "📚",
+     "items": [
+      "idea",
+      "meeting",
+      "boss",
+      "salary"
+     ],
+     "sentences": [
+      "c-he-studies-hebrew",
+      "c-i-study-hebrew-f"
+     ]
+    },
+    {
+     "id": "u21-6",
+     "title": "engineer, police & more",
+     "icon": "📚",
+     "items": [
+      "engineer",
+      "police",
+      "army",
+      "soldier"
+     ],
+     "sentences": [
+      "c-we-study-hebrew",
+      "c-there-is-a-problem"
+     ]
+    },
+    {
+     "id": "u21-7",
+     "title": "young man, everyone, someone",
+     "icon": "📚",
+     "items": [
+      "guy",
+      "everyone",
+      "someone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u22",
+   "title": "More verbs",
+   "subtitle": "See, hear, help, wait",
+   "he": "רוֹאֶה",
+   "lessons": [
+    {
+     "id": "u22-1",
+     "title": "See",
+     "icon": "🏃",
+     "items": [
+      "see-ms",
+      "see-fs",
+      "see-mp",
+      "see-fp"
+     ]
+    },
+    {
+     "id": "u22-2",
+     "title": "Hear",
+     "icon": "🏃",
+     "items": [
+      "hear-ms",
+      "hear-fs",
+      "hear-mp",
+      "hear-fp"
+     ]
+    },
+    {
+     "id": "u22-3",
+     "title": "Do",
+     "icon": "🏃",
+     "items": [
+      "do-ms",
+      "do-fs",
+      "do-mp",
+      "do-fp"
+     ]
+    },
+    {
+     "id": "u22-4",
+     "title": "Sit",
+     "icon": "🏃",
+     "items": [
+      "sit-ms",
+      "sit-fs",
+      "sit-mp",
+      "sit-fp"
+     ]
+    },
+    {
+     "id": "u22-5",
+     "title": "Sleep",
+     "icon": "🏃",
+     "items": [
+      "sleep-ms",
+      "sleep-fs",
+      "sleep-mp",
+      "sleep-fp"
+     ],
+     "sentences": [
+      "c-she-sleeps-now"
+     ]
+    },
+    {
+     "id": "u22-6",
+     "title": "Help",
+     "icon": "🏃",
+     "items": [
+      "help-v-ms",
+      "help-v-fs",
+      "help-v-mp",
+      "help-v-fp"
+     ]
+    },
+    {
+     "id": "u22-7",
+     "title": "Look for",
+     "icon": "🏃",
+     "items": [
+      "look-for-ms",
+      "look-for-fs",
+      "look-for-mp",
+      "look-for-fp"
+     ]
+    },
+    {
+     "id": "u22-8",
+     "title": "Open",
+     "icon": "🏃",
+     "items": [
+      "open-v-ms",
+      "open-v-fs",
+      "open-v-mp",
+      "open-v-fp"
+     ]
+    },
+    {
+     "id": "u22-9",
+     "title": "Close",
+     "icon": "🏃",
+     "items": [
+      "close-v-ms",
+      "close-v-fs",
+      "close-v-mp",
+      "close-v-fp"
+     ]
+    },
+    {
+     "id": "u22-10",
+     "title": "Give",
+     "icon": "🏃",
+     "items": [
+      "give-ms",
+      "give-fs",
+      "give-mp",
+      "give-fp"
+     ]
+    },
+    {
+     "id": "u22-11",
+     "title": "Take",
+     "icon": "🏃",
+     "items": [
+      "take-ms",
+      "take-fs",
+      "take-mp",
+      "take-fp"
+     ]
+    },
+    {
+     "id": "u22-12",
+     "title": "Ask",
+     "icon": "🏃",
+     "items": [
+      "ask-ms",
+      "ask-fs",
+      "ask-mp",
+      "ask-fp"
+     ]
+    },
+    {
+     "id": "u22-13",
+     "title": "Can",
+     "icon": "🏃",
+     "items": [
+      "can-ms",
+      "can-fs",
+      "can-mp",
+      "can-fp"
+     ]
+    },
+    {
+     "id": "u22-14",
+     "title": "Wait",
+     "icon": "🏃",
+     "items": [
+      "wait-ms",
+      "wait-fs",
+      "wait-mp",
+      "wait-fp"
+     ],
+     "sentences": [
+      "c-i-wait-here-f"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u23",
+   "title": "Fun & animals",
+   "subtitle": "Play, sing, dance and the zoo",
+   "he": "כֶּלֶב",
+   "lessons": [
+    {
+     "id": "u23-1",
+     "title": "Play",
+     "icon": "🐶",
+     "items": [
+      "play-ms",
+      "play-fs",
+      "play-mp",
+      "play-fp"
+     ]
+    },
+    {
+     "id": "u23-2",
+     "title": "Sing",
+     "icon": "🐶",
+     "items": [
+      "sing-ms",
+      "sing-fs",
+      "sing-mp",
+      "sing-fp"
+     ]
+    },
+    {
+     "id": "u23-3",
+     "title": "Dance",
+     "icon": "🐶",
+     "items": [
+      "dance-ms",
+      "dance-fs",
+      "dance-mp",
+      "dance-fp"
+     ]
+    },
+    {
+     "id": "u23-4",
+     "title": "Run",
+     "icon": "🐶",
+     "items": [
+      "run-ms",
+      "run-fs",
+      "run-mp",
+      "run-fp"
+     ]
+    },
+    {
+     "id": "u23-5",
+     "title": "dog, cat & more",
+     "icon": "🐶",
+     "items": [
+      "dog",
+      "cat",
+      "bird",
+      "horse"
+     ],
+     "sentences": [
+      "c-i-see-dog-m",
+      "c-black-cat"
+     ]
+    },
+    {
+     "id": "u23-6",
+     "title": "cow, sheep & more",
+     "icon": "🐶",
+     "items": [
+      "cow",
+      "sheep",
+      "lion",
+      "camel"
+     ]
+    },
+    {
+     "id": "u23-7",
+     "title": "donkey, snake & more",
+     "icon": "🐶",
+     "items": [
+      "donkey",
+      "snake",
+      "mouse",
+      "monkey"
+     ]
+    },
+    {
+     "id": "u23-8",
+     "title": "bear, elephant & more",
+     "icon": "🐶",
+     "items": [
+      "bear",
+      "elephant",
+      "butterfly",
+      "bee"
+     ]
+    }
+   ]
+  }
+ ]
+}

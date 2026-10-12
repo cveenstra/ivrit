@@ -1,0 +1,246 @@
+{
+ "sections": [
+  {
+   "title": "Letters and vowels",
+   "note": "A few letters at a time, each with a vowel point or two, so you can read real syllables straight away.",
+   "groups": [
+    "g1",
+    "g2",
+    "g3",
+    "g4",
+    "g5",
+    "g6",
+    "g7",
+    "g8",
+    "g9"
+   ]
+  },
+  {
+   "title": "Drills",
+   "note": "Practice sets for the tricky parts. They unlock once you have met the letters in them.",
+   "groups": [
+    "d-dagesh",
+    "d-finals",
+    "d-look1",
+    "d-look2",
+    "d-look3",
+    "d-look4"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "title": "בּ ב ת  ָ ַ",
+   "letters": [
+    "bet",
+    "vet",
+    "tav"
+   ],
+   "vowels": [
+    "kamatz",
+    "patach"
+   ],
+   "tip": "Hebrew is read right to left. Start with three letters and the vowel a: kamatz  ָ and patach  ַ, written under the letter."
+  },
+  {
+   "id": "g2",
+   "title": "א ל מ ם",
+   "letters": [
+    "alef",
+    "lamed",
+    "mem",
+    "mem-final"
+   ],
+   "vowels": [],
+   "tip": "Mem has two shapes: מ inside a word, ם at the end. Alef is silent: it just carries a vowel."
+  },
+  {
+   "id": "g3",
+   "title": "ה ו שׁ  ֹ וֹ",
+   "letters": [
+    "he",
+    "vav",
+    "shin"
+   ],
+   "vowels": [
+    "holam",
+    "holam-male"
+   ],
+   "tip": "Now the vowel o. With these you can read שָׁלוֹם, shalom."
+  },
+  {
+   "id": "g4",
+   "title": "ד י נ ן  ִ ִי",
+   "letters": [
+    "dalet",
+    "yod",
+    "nun",
+    "nun-final"
+   ],
+   "vowels": [
+    "hiriq",
+    "hiriq-male"
+   ],
+   "tip": "The vowel i is a single dot under the letter, often followed by yod."
+  },
+  {
+   "id": "g5",
+   "title": "ר ס ז  ֶ ֵ",
+   "letters": [
+    "resh",
+    "samekh",
+    "zayin"
+   ],
+   "vowels": [
+    "segol",
+    "tsere"
+   ],
+   "tip": "Two ways to write e: segol (three dots) and tsere (two dots). They sound the same."
+  },
+  {
+   "id": "g6",
+   "title": "כּ כ ך ק  ֻ וּ",
+   "letters": [
+    "kaf",
+    "khaf",
+    "khaf-final",
+    "qof"
+   ],
+   "vowels": [
+    "kubutz",
+    "shuruk"
+   ],
+   "tip": "כּ with a dot is k; כ without it is kh. ק is also k. The vowel u is usually וּ."
+  },
+  {
+   "id": "g7",
+   "title": "ג ח ט ע  ְ",
+   "letters": [
+    "gimel",
+    "het",
+    "tet",
+    "ayin"
+   ],
+   "vowels": [
+    "shva"
+   ],
+   "tip": "ח sounds like כ (kh), ט like ת (t), and ע is silent like א. Shva  ְ is a short e or nothing."
+  },
+  {
+   "id": "g8",
+   "title": "פּ פ ף צ ץ",
+   "letters": [
+    "pe",
+    "fe",
+    "fe-final",
+    "tsadi",
+    "tsadi-final"
+   ],
+   "vowels": [],
+   "tip": "Two more letters with final forms. פּ with a dot is p, פ without it is f."
+  },
+  {
+   "id": "g9",
+   "title": "שׂ  ֲ ֱ ֳ",
+   "letters": [
+    "sin"
+   ],
+   "vowels": [
+    "hataf-patach",
+    "hataf-segol",
+    "hataf-kamatz"
+   ],
+   "tip": "שׂ (dot on the left) is s. The last vowels are short ones joined to shva."
+  },
+  {
+   "id": "d-dagesh",
+   "title": "Dot or no dot: בּ/ב כּ/כ פּ/פ",
+   "drill": "dagesh",
+   "letters": [
+    "bet",
+    "vet",
+    "kaf",
+    "khaf",
+    "pe",
+    "fe"
+   ],
+   "vowels": [],
+   "tip": "A dot (dagesh) in ב, כ and פ changes the sound: b/v, k/kh, p/f."
+  },
+  {
+   "id": "d-finals",
+   "title": "Final forms: ך ם ן ף ץ",
+   "drill": "finals",
+   "letters": [
+    "khaf",
+    "khaf-final",
+    "mem",
+    "mem-final",
+    "nun",
+    "nun-final",
+    "fe",
+    "fe-final",
+    "tsadi",
+    "tsadi-final"
+   ],
+   "vowels": [],
+   "tip": "Five letters change shape at the end of a word."
+  },
+  {
+   "id": "d-look1",
+   "title": "Look-alikes: ב כ, ד ר ך",
+   "drill": "look",
+   "letters": [
+    "vet",
+    "khaf",
+    "dalet",
+    "resh",
+    "khaf-final"
+   ],
+   "vowels": [],
+   "tip": "ב has a little tail at the bottom right; כ is rounded. ד has a corner; ר is rounded."
+  },
+  {
+   "id": "d-look2",
+   "title": "Look-alikes: ה ח ת",
+   "drill": "look",
+   "letters": [
+    "he",
+    "het",
+    "tav"
+   ],
+   "vowels": [],
+   "tip": "ה has a gap at the top left; ח is closed; ת has a little foot."
+  },
+  {
+   "id": "d-look3",
+   "title": "Look-alikes: ו ז ן",
+   "drill": "look",
+   "letters": [
+    "vav",
+    "zayin",
+    "nun-final"
+   ],
+   "vowels": [],
+   "tip": "ו has a small hook; ז a flat cap; ן drops below the line."
+  },
+  {
+   "id": "d-look4",
+   "title": "Look-alikes: ס ם, ע צ, ג נ, ט מ",
+   "drill": "look",
+   "letters": [
+    "samekh",
+    "mem-final",
+    "ayin",
+    "tsadi",
+    "gimel",
+    "nun",
+    "tet",
+    "mem"
+   ],
+   "vowels": [],
+   "tip": "ס is round, ם is square. ע has two arms meeting at the bottom; צ has a flat base."
+  }
+ ]
+}

@@ -1,0 +1,1101 @@
+{
+ "sentences": [
+  {
+   "id": "c-i-eat-bread-m",
+   "he": "אֲנִי אוֹכֵל לֶחֶם",
+   "tr": "aní okhél lékhem",
+   "en": "I eat bread. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "eat-ms",
+    "bread"
+   ],
+   "q": "",
+   "pattern": "subject + verb + object"
+  },
+  {
+   "id": "c-i-eat-bread-f",
+   "he": "אֲנִי אוֹכֶלֶת לֶחֶם",
+   "tr": "aní okhélet lékhem",
+   "en": "I eat bread. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "eat-fs",
+    "bread"
+   ],
+   "q": "",
+   "pattern": "subject + verb + object"
+  },
+  {
+   "id": "c-he-drinks-water",
+   "he": "הוּא שׁוֹתֶה מַיִם",
+   "tr": "hu shoté máyim",
+   "en": "He drinks water.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "drink-ms",
+    "water"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-she-drinks-tea",
+   "he": "הִיא שׁוֹתָה תֵּה",
+   "tr": "hi shotá te",
+   "en": "She drinks tea.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "drink-fs",
+    "tea"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-we-eat-falafel",
+   "he": "אֲנַחְנוּ אוֹכְלִים פָלָאפֶל",
+   "tr": "anákhnu okhlím faláfel",
+   "en": "We eat falafel. (a group of men or a mixed group)",
+   "kind": "composed",
+   "ids": [
+    "we",
+    "eat-mp",
+    "falafel"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-they-drink-beer",
+   "he": "הֵם שׁוֹתִים בִּירָה",
+   "tr": "hem shotím bíra",
+   "en": "They drink beer.",
+   "kind": "composed",
+   "ids": [
+    "they-m",
+    "drink-mp",
+    "beer"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-want-water-m",
+   "he": "אֲנִי רוֹצֶה מַיִם",
+   "tr": "aní rotsé máyim",
+   "en": "I want water. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "want-ms",
+    "water"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-want-coffee-f",
+   "he": "אֲנִי רוֹצָה קָפֶה",
+   "tr": "aní rotsá kafé",
+   "en": "I want coffee. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "want-fs",
+    "coffee"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-you-want-coffee-m",
+   "he": "אַתָּה רוֹצֶה קָפֶה?",
+   "tr": "atá rotsé kafé?",
+   "en": "Do you want coffee? (to a man)",
+   "kind": "composed",
+   "ids": [
+    "you-m",
+    "want-ms",
+    "coffee"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-you-want-tea-f",
+   "he": "אַתְּ רוֹצָה תֵּה?",
+   "tr": "át rotsá te?",
+   "en": "Do you want tea? (to a woman)",
+   "kind": "composed",
+   "ids": [
+    "you-f",
+    "want-fs",
+    "tea"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-i-want-more-m",
+   "he": "אֲנִי רוֹצֶה עוֹד",
+   "tr": "aní rotsé od",
+   "en": "I want more. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "want-ms",
+    "more"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-love-coffee-m",
+   "he": "אֲנִי אוֹהֵב קָפֶה",
+   "tr": "aní ohév kafé",
+   "en": "I love coffee. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "love-ms",
+    "coffee"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-she-loves-chocolate",
+   "he": "הִיא אוֹהֶבֶת שׁוֹקוֹלָד",
+   "tr": "hi ohévet shokolád",
+   "en": "She loves chocolate.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "love-fs",
+    "chocolate"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-you-speak-hebrew-m",
+   "he": "אַתָּה מְדַבֵּר עִבְרִית?",
+   "tr": "atá m'dabér ivrít?",
+   "en": "Do you speak Hebrew? (to a man)",
+   "kind": "composed",
+   "ids": [
+    "you-m",
+    "speak-ms",
+    "hebrew"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-you-speak-hebrew-f",
+   "he": "אַתְּ מְדַבֶּרֶת עִבְרִית?",
+   "tr": "át m'dabéret ivrít?",
+   "en": "Do you speak Hebrew? (to a woman)",
+   "kind": "composed",
+   "ids": [
+    "you-f",
+    "speak-fs",
+    "hebrew"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-i-speak-english-m",
+   "he": "אֲנִי מְדַבֵּר אַנְגְּלִית",
+   "tr": "aní m'dabér ang'lít",
+   "en": "I speak English. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "speak-ms",
+    "english"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-speak-english-f",
+   "he": "אֲנִי מְדַבֶּרֶת אַנְגְּלִית",
+   "tr": "aní m'dabéret ang'lít",
+   "en": "I speak English. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "speak-fs",
+    "english"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-studies-hebrew",
+   "he": "הוּא לוֹמֵד עִבְרִית",
+   "tr": "hu loméd ivrít",
+   "en": "He is learning Hebrew.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "study-ms",
+    "hebrew"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-study-hebrew-f",
+   "he": "אֲנִי לוֹמֶדֶת עִבְרִית",
+   "tr": "aní lomédet ivrít",
+   "en": "I am learning Hebrew. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "study-fs",
+    "hebrew"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-we-study-hebrew",
+   "he": "אֲנַחְנוּ לוֹמְדִים עִבְרִית",
+   "tr": "anákhnu lomdím ivrít",
+   "en": "We are learning Hebrew.",
+   "kind": "composed",
+   "ids": [
+    "we",
+    "study-mp",
+    "hebrew"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-dont-understand-m",
+   "he": "אֲנִי לֹא מֵבִין",
+   "tr": "aní lo mevín",
+   "en": "I don't understand. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "no",
+    "understand-ms"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-dont-understand-f",
+   "he": "אֲנִי לֹא מְבִינָה",
+   "tr": "aní lo m'viná",
+   "en": "I don't understand. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "no",
+    "understand-fs"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-dont-know-m",
+   "he": "אֲנִי לֹא יוֹדֵעַ",
+   "tr": "aní lo yodéa",
+   "en": "I don't know. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "no",
+    "know-ms"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-dont-know-f",
+   "he": "אֲנִי לֹא יוֹדַעַת",
+   "tr": "aní lo yodá'at",
+   "en": "I don't know. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "no",
+    "know-fs"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-live-here-m",
+   "he": "אֲנִי גָּר פֹּה",
+   "tr": "aní gar pó",
+   "en": "I live here. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "live-ms",
+    "here"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-we-live-here",
+   "he": "אֲנַחְנוּ גָּרִים פֹּה",
+   "tr": "anákhnu garím pó",
+   "en": "We live here.",
+   "kind": "composed",
+   "ids": [
+    "we",
+    "live-mp",
+    "here"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-she-works-now",
+   "he": "הִיא עוֹבֶדֶת עַכְשָׁו",
+   "tr": "hi ovédet akhsháv",
+   "en": "She is working now.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "work-v-fs",
+    "now"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-reads-book",
+   "he": "הוּא קוֹרֵא סֵפֶר",
+   "tr": "hu koré séfer",
+   "en": "He is reading a book.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "read-ms",
+    "book"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-she-writes-letter",
+   "he": "הִיא כּוֹתֶבֶת מִכְתָּב",
+   "tr": "hi kotévet mikhtáv",
+   "en": "She is writing a letter.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "write-fs",
+    "letter-mail"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-need-taxi-m",
+   "he": "אֲנִי צָרִיךְ מוֹנִית",
+   "tr": "aní tsaríkh monít",
+   "en": "I need a taxi. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "need-ms",
+    "taxi"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-she-needs-doctor",
+   "he": "הִיא צְרִיכָה רוֹפֵא",
+   "tr": "hi ts'rikhá rofé",
+   "en": "She needs a doctor.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "need-fs",
+    "doctor"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-they-buy-bread-f",
+   "he": "הֵן קוֹנוֹת לֶחֶם",
+   "tr": "hen konót lékhem",
+   "en": "They (women) are buying bread.",
+   "kind": "composed",
+   "ids": [
+    "they-f",
+    "buy-fp",
+    "bread"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-buy-gift-m",
+   "he": "אֲנִי קוֹנֶה מַתָּנָה",
+   "tr": "aní koné mataná",
+   "en": "I am buying a gift. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "buy-ms",
+    "gift"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-pays-now",
+   "he": "הוּא מְשַׁלֵּם עַכְשָׁו",
+   "tr": "hu m'shalém akhsháv",
+   "en": "He is paying now.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "pay-ms",
+    "now"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-you-come-tomorrow-m",
+   "he": "אַתָּה בָּא מָחָר?",
+   "tr": "atá ba makhár?",
+   "en": "Are you coming tomorrow? (to a man)",
+   "kind": "composed",
+   "ids": [
+    "you-m",
+    "come-ms",
+    "tomorrow"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-she-sleeps-now",
+   "he": "הִיא יְשֵׁנָה עַכְשָׁו",
+   "tr": "hi y'shená akhsháv",
+   "en": "She is sleeping now.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "sleep-fs",
+    "now"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-wait-here-f",
+   "he": "אֲנִי מְחַכָּה פֹּה",
+   "tr": "aní m'khaká pó",
+   "en": "I am waiting here. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "wait-fs",
+    "here"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-cooks-soup",
+   "he": "הוּא מְבַשֵּׁל מָרָק",
+   "tr": "hu m'vashél marák",
+   "en": "He is cooking soup.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "cook-ms",
+    "soup"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-we-travel-tomorrow",
+   "he": "אֲנַחְנוּ נוֹסְעִים מָחָר",
+   "tr": "anákhnu nosím makhár",
+   "en": "We are travelling tomorrow.",
+   "kind": "composed",
+   "ids": [
+    "we",
+    "travel-mp",
+    "tomorrow"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-see-dog-m",
+   "he": "אֲנִי רוֹאֶה כֶּלֶב",
+   "tr": "aní ro'é kélev",
+   "en": "I see a dog. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "see-ms",
+    "dog"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-tired",
+   "he": "הוּא עָיֵף",
+   "tr": "hu ayéf",
+   "en": "He is tired.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "tired"
+   ],
+   "q": "",
+   "pattern": "no word for \"is\" in the present"
+  },
+  {
+   "id": "c-she-tired",
+   "he": "הִיא עֲיֵפָה",
+   "tr": "hi ayefá",
+   "en": "She is tired.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "tired-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-hungry-m",
+   "he": "אֲנִי רָעֵב",
+   "tr": "aní ra'év",
+   "en": "I am hungry. (man speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "hungry"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-hungry-f",
+   "he": "אֲנִי רְעֵבָה",
+   "tr": "aní r'evá",
+   "en": "I am hungry. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "hungry-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-she-happy",
+   "he": "הִיא שְׂמֵחָה",
+   "tr": "hi s'mekhá",
+   "en": "She is happy.",
+   "kind": "composed",
+   "ids": [
+    "she",
+    "happy-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-busy",
+   "he": "הוּא עָסוּק",
+   "tr": "hu asúk",
+   "en": "He is busy.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "busy"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-i-ready-f",
+   "he": "אֲנִי מוּכָנָה",
+   "tr": "aní mukhaná",
+   "en": "I am ready. (woman speaking)",
+   "kind": "composed",
+   "ids": [
+    "i",
+    "ready-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-he-sick",
+   "he": "הוּא חוֹלֶה",
+   "tr": "hu kholé",
+   "en": "He is sick.",
+   "kind": "composed",
+   "ids": [
+    "he",
+    "sick"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-good",
+   "he": "זֶה טוֹב",
+   "tr": "ze tov",
+   "en": "This is good.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "good"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-tasty",
+   "he": "זֶה טָעִים",
+   "tr": "ze ta'ím",
+   "en": "This is tasty.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "tasty"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-expensive",
+   "he": "זֶה יָקָר",
+   "tr": "ze yakár",
+   "en": "This is expensive.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "expensive"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-cheap",
+   "he": "זֶה זוֹל",
+   "tr": "ze zol",
+   "en": "This is cheap.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "cheap"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-important",
+   "he": "זֶה חָשׁוּב",
+   "tr": "ze khashúv",
+   "en": "This is important.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "important"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-not-far",
+   "he": "זֶה לֹא רָחוֹק",
+   "tr": "ze lo rakhók",
+   "en": "It is not far.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "no",
+    "far"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-this-near",
+   "he": "זֶה קָרוֹב",
+   "tr": "ze karóv",
+   "en": "It is close.",
+   "kind": "composed",
+   "ids": [
+    "this-m",
+    "near"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-small-boy",
+   "he": "יֶלֶד קָטָן",
+   "tr": "yéled katán",
+   "en": "a small boy",
+   "kind": "composed",
+   "ids": [
+    "boy",
+    "small"
+   ],
+   "q": "",
+   "pattern": "noun + adjective"
+  },
+  {
+   "id": "c-small-girl",
+   "he": "יַלְדָּה קְטַנָּה",
+   "tr": "yaldá k'taná",
+   "en": "a small girl",
+   "kind": "composed",
+   "ids": [
+    "girl",
+    "small-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-big-house",
+   "he": "בַּיִת גָּדוֹל",
+   "tr": "báyit gadól",
+   "en": "a big house",
+   "kind": "composed",
+   "ids": [
+    "home",
+    "big"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-new-car",
+   "he": "מְכוֹנִית חֲדָשָׁה",
+   "tr": "m'khonít khadashá",
+   "en": "a new car",
+   "kind": "composed",
+   "ids": [
+    "car",
+    "new-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-black-cat",
+   "he": "חָתוּל שָׁחֹר",
+   "tr": "khatúl shakhór",
+   "en": "a black cat",
+   "kind": "composed",
+   "ids": [
+    "cat",
+    "black"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-red-dress",
+   "he": "שִׂמְלָה אֲדֻמָּה",
+   "tr": "simlá adumá",
+   "en": "a red dress",
+   "kind": "composed",
+   "ids": [
+    "dress",
+    "red-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-good-day",
+   "he": "יוֹם טוֹב",
+   "tr": "yom tov",
+   "en": "a good day",
+   "kind": "composed",
+   "ids": [
+    "day",
+    "good"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-beautiful-city",
+   "he": "עִיר יָפָה",
+   "tr": "ir yafá",
+   "en": "a beautiful city",
+   "kind": "composed",
+   "ids": [
+    "city",
+    "beautiful-f"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-hot-coffee",
+   "he": "קָפֶה חַם",
+   "tr": "kafé kham",
+   "en": "hot coffee",
+   "kind": "composed",
+   "ids": [
+    "coffee",
+    "hot"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-what-is-this",
+   "he": "מָה זֶה?",
+   "tr": "ma ze?",
+   "en": "What is this?",
+   "kind": "composed",
+   "ids": [
+    "what",
+    "this-m"
+   ],
+   "q": "?",
+   "pattern": "question word + this"
+  },
+  {
+   "id": "c-who-is-this",
+   "he": "מִי זֶה?",
+   "tr": "mí ze?",
+   "en": "Who is this?",
+   "kind": "composed",
+   "ids": [
+    "who",
+    "this-m"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-how-much-is-this",
+   "he": "כַּמָּה זֶה?",
+   "tr": "káma ze?",
+   "en": "How much is this?",
+   "kind": "composed",
+   "ids": [
+    "how-much",
+    "this-m"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-where-is-it",
+   "he": "אֵיפֹה זֶה?",
+   "tr": "efó ze?",
+   "en": "Where is it?",
+   "kind": "composed",
+   "ids": [
+    "where",
+    "this-m"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-there-is-water",
+   "he": "יֵשׁ מַיִם?",
+   "tr": "yésh máyim?",
+   "en": "Is there water?",
+   "kind": "composed",
+   "ids": [
+    "there-is",
+    "water"
+   ],
+   "q": "?",
+   "pattern": null
+  },
+  {
+   "id": "c-there-is-no-time",
+   "he": "אֵין זְמַן",
+   "tr": "en zmán",
+   "en": "There is no time.",
+   "kind": "composed",
+   "ids": [
+    "there-isnt",
+    "time"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-there-is-a-problem",
+   "he": "יֵשׁ בְּעָיָה",
+   "tr": "yésh b'ayá",
+   "en": "There is a problem.",
+   "kind": "composed",
+   "ids": [
+    "there-is",
+    "problem"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "c-today-hot",
+   "he": "הַיּוֹם חַם",
+   "tr": "hayóm kham",
+   "en": "It's hot today.",
+   "kind": "composed",
+   "ids": [
+    "today",
+    "hot"
+   ],
+   "q": "",
+   "pattern": "time word + adjective"
+  },
+  {
+   "id": "c-not-now",
+   "he": "לֹא עַכְשָׁו",
+   "tr": "lo akhsháv",
+   "en": "Not now.",
+   "kind": "composed",
+   "ids": [
+    "no",
+    "now"
+   ],
+   "q": "",
+   "pattern": null
+  },
+  {
+   "id": "ex-hello-0",
+   "he": "שַׁבָּת שָׁלוֹם!",
+   "tr": "shabát shalóm!",
+   "en": "Peaceful Sabbath!",
+   "kind": "attested",
+   "src": "wiktionary:שלום",
+   "for": "hello",
+   "tokens": [
+    {
+     "he": "שַׁבָּת",
+     "tr": "shabát"
+    },
+    {
+     "he": "שָׁלוֹם!",
+     "tr": "shalóm!"
+    }
+   ]
+  },
+  {
+   "id": "ex-hello-1",
+   "he": "מַה שְּׁלוֹמְךָ?",
+   "tr": "má sh'lom'khá?",
+   "en": "How are you?",
+   "kind": "attested",
+   "src": "wiktionary:שלום",
+   "for": "hello",
+   "tokens": [
+    {
+     "he": "מַה",
+     "tr": "má"
+    },
+    {
+     "he": "שְּׁלוֹמְךָ?",
+     "tr": "sh'lom'khá?"
+    }
+   ]
+  },
+  {
+   "id": "ex-one-m-2",
+   "he": "רָאִיתָ יַלְדָּה אַחַת כָּאן?",
+   "tr": "ra'íta yaldá akhát kán?",
+   "en": "Have you seen a girl here?",
+   "kind": "attested",
+   "src": "wiktionary:אחד",
+   "for": "one-m",
+   "tokens": [
+    {
+     "he": "רָאִיתָ",
+     "tr": "ra'íta"
+    },
+    {
+     "he": "יַלְדָּה",
+     "tr": "yaldá"
+    },
+    {
+     "he": "אַחַת",
+     "tr": "akhát"
+    },
+    {
+     "he": "כָּאן?",
+     "tr": "kán?"
+    }
+   ]
+  },
+  {
+   "id": "ex-hour-3",
+   "he": "מָה הַשָּׁעָה?",
+   "tr": "ma hasha'á?",
+   "en": "What time is it?",
+   "kind": "attested",
+   "src": "wiktionary:שעה",
+   "for": "hour",
+   "tokens": [
+    {
+     "he": "מָה",
+     "tr": "ma"
+    },
+    {
+     "he": "הַשָּׁעָה?",
+     "tr": "hasha'á?"
+    }
+   ]
+  },
+  {
+   "id": "ex-is-it-4",
+   "he": "הַאִם הוּא פֹּה?",
+   "tr": "ha'ím hú pó?",
+   "en": "Is he here?",
+   "kind": "attested",
+   "src": "wiktionary:האם",
+   "for": "is-it",
+   "tokens": [
+    {
+     "he": "הַאִם",
+     "tr": "ha'ím"
+    },
+    {
+     "he": "הוּא",
+     "tr": "hú"
+    },
+    {
+     "he": "פֹּה?",
+     "tr": "pó?"
+    }
+   ]
+  }
+ ]
+}

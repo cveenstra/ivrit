@@ -1,0 +1,819 @@
+{
+ "letters": [
+  {
+   "id": "alef",
+   "char": "א",
+   "base": "א",
+   "name": "Alef",
+   "wp_name": "Alef",
+   "name_he": "אָלֶף",
+   "name_ipa": "/alef/",
+   "sound": "",
+   "shape": "alef",
+   "note": "Silent: it carries a vowel. Between vowels it can mark a slight catch, like the break in \"uh-oh\".",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "אִם",
+    "tr": "im",
+    "en": "if"
+   }
+  },
+  {
+   "id": "bet",
+   "char": "בּ",
+   "base": "ב",
+   "name": "Bet",
+   "wp_name": "Bet",
+   "name_he": "בֵּית",
+   "name_ipa": "/bet/",
+   "sound": "b",
+   "shape": "bet",
+   "note": "With a dot (dagesh) inside it is b.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "בֵּן",
+    "tr": "ben",
+    "en": "son"
+   }
+  },
+  {
+   "id": "vet",
+   "char": "ב",
+   "base": "ב",
+   "name": "Vet",
+   "wp_name": "Bet",
+   "name_he": "בֵית",
+   "name_ipa": "/vet/",
+   "sound": "v",
+   "shape": "bet",
+   "note": "Without the dot it is v. Same letter, called vet.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "טוֹב",
+    "tr": "tov",
+    "en": "good"
+   }
+  },
+  {
+   "id": "gimel",
+   "char": "ג",
+   "base": "ג",
+   "name": "Gimel",
+   "wp_name": "Gimel",
+   "name_he": "גִּימֶל",
+   "name_ipa": "/ˈɡimel/",
+   "sound": "g",
+   "shape": "gimel",
+   "note": null,
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "גַּג",
+    "tr": "gag",
+    "en": "roof"
+   }
+  },
+  {
+   "id": "dalet",
+   "char": "ד",
+   "base": "ד",
+   "name": "Dalet",
+   "wp_name": "Dalet",
+   "name_he": "דָּלֶת",
+   "name_ipa": "/ˈdalɛt/",
+   "sound": "d",
+   "shape": "dalet",
+   "note": null,
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "דּוּד",
+    "tr": "dud",
+    "en": "boiler"
+   }
+  },
+  {
+   "id": "he",
+   "char": "ה",
+   "base": "ה",
+   "name": "He",
+   "wp_name": "He",
+   "name_he": "הֵא",
+   "name_ipa": "/he/",
+   "sound": "h",
+   "shape": "he",
+   "note": "At the end of a word it is usually silent.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "הֵד",
+    "tr": "hed",
+    "en": "echo"
+   }
+  },
+  {
+   "id": "vav",
+   "char": "ו",
+   "base": "ו",
+   "name": "Vav",
+   "wp_name": "Vav",
+   "name_he": "וָו",
+   "name_ipa": "/vav/",
+   "sound": "v",
+   "shape": "vav",
+   "note": "Also used as a vowel letter: וֹ is o and וּ is u.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "וָו",
+    "tr": "vav",
+    "en": "hook"
+   }
+  },
+  {
+   "id": "zayin",
+   "char": "ז",
+   "base": "ז",
+   "name": "Zayin",
+   "wp_name": "Zayin",
+   "name_he": "זַיִן",
+   "name_ipa": "/ˈzajin/",
+   "sound": "z",
+   "shape": "zayin",
+   "note": null,
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "זֶה",
+    "tr": "ze",
+    "en": "this"
+   }
+  },
+  {
+   "id": "het",
+   "char": "ח",
+   "base": "ח",
+   "name": "Chet",
+   "wp_name": "Chet",
+   "name_he": "חֵית",
+   "name_ipa": "/χet/",
+   "sound": "kh",
+   "shape": "het",
+   "note": "A throaty kh, like ch in Scottish \"loch\". Same sound as כ (khaf) in modern Hebrew.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "חַם",
+    "tr": "ẖam",
+    "en": "hot"
+   }
+  },
+  {
+   "id": "tet",
+   "char": "ט",
+   "base": "ט",
+   "name": "Tet",
+   "wp_name": "Tet",
+   "name_he": "טֵית",
+   "name_ipa": "/tet/",
+   "sound": "t",
+   "shape": "tet",
+   "note": "Same sound as ת (tav) in modern Hebrew.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "קָט",
+    "tr": "kat",
+    "en": "tiny"
+   }
+  },
+  {
+   "id": "yod",
+   "char": "י",
+   "base": "י",
+   "name": "Yod",
+   "wp_name": "Yod",
+   "name_he": "יוֹד",
+   "name_ipa": "/jod/",
+   "sound": "y",
+   "shape": "yod",
+   "note": "Also used as a vowel letter for i and e.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "יָם",
+    "tr": "yam",
+    "en": "sea"
+   }
+  },
+  {
+   "id": "kaf",
+   "char": "כּ",
+   "base": "כ",
+   "name": "Kaf",
+   "wp_name": "Kaf",
+   "name_he": "כַּף",
+   "name_ipa": "/kaf/",
+   "sound": "k",
+   "shape": "kaf",
+   "note": "With the dot it is k.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "כֹּה",
+    "tr": "ko",
+    "en": "so"
+   }
+  },
+  {
+   "id": "khaf",
+   "char": "כ",
+   "base": "כ",
+   "name": "Khaf",
+   "wp_name": "Kaf",
+   "name_he": "כַף",
+   "name_ipa": "/χaf/",
+   "sound": "kh",
+   "shape": "kaf",
+   "note": "Without the dot it is kh, called khaf.",
+   "final_of": null,
+   "final": "khaf-final",
+   "example": {
+    "he": "סְכָךְ",
+    "tr": "skhakh",
+    "en": "branch-roofing"
+   }
+  },
+  {
+   "id": "khaf-final",
+   "char": "ך",
+   "base": "ך",
+   "name": "Final khaf",
+   "wp_name": "Kaf",
+   "name_he": "כַף סוֹפִית",
+   "name_ipa": "/χaf sofit/",
+   "sound": "kh",
+   "shape": "kaf-final",
+   "note": "Final form: used only at the end of a word.",
+   "final_of": "khaf",
+   "final": null,
+   "example": {
+    "he": "סְכָךְ",
+    "tr": "skhakh",
+    "en": "branch-roofing"
+   }
+  },
+  {
+   "id": "lamed",
+   "char": "ל",
+   "base": "ל",
+   "name": "Lamed",
+   "wp_name": "Lamed",
+   "name_he": "לָמֶד",
+   "name_ipa": "/ˈlamɛd/",
+   "sound": "l",
+   "shape": "lamed",
+   "note": "The only letter that rises above the line.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "לִי",
+    "tr": "li",
+    "en": "to me"
+   }
+  },
+  {
+   "id": "mem",
+   "char": "מ",
+   "base": "מ",
+   "name": "Mem",
+   "wp_name": "Mem",
+   "name_he": "מֵם",
+   "name_ipa": "/mem/",
+   "sound": "m",
+   "shape": "mem",
+   "note": null,
+   "final_of": null,
+   "final": "mem-final",
+   "example": {
+    "he": "מוּם",
+    "tr": "mum",
+    "en": "defect"
+   }
+  },
+  {
+   "id": "mem-final",
+   "char": "ם",
+   "base": "ם",
+   "name": "Final mem",
+   "wp_name": "Mem",
+   "name_he": "מֵם סוֹפִית",
+   "name_ipa": "/mem sofit/",
+   "sound": "m",
+   "shape": "mem-final",
+   "note": "Final form: used only at the end of a word.",
+   "final_of": "mem",
+   "final": null,
+   "example": {
+    "he": "מוּם",
+    "tr": "mum",
+    "en": "defect"
+   }
+  },
+  {
+   "id": "nun",
+   "char": "נ",
+   "base": "נ",
+   "name": "Nun",
+   "wp_name": "Nun",
+   "name_he": "נוּן",
+   "name_ipa": "/nun/",
+   "sound": "n",
+   "shape": "nun",
+   "note": null,
+   "final_of": null,
+   "final": "nun-final",
+   "example": {
+    "he": "נִין",
+    "tr": "nin",
+    "en": "great-grandson"
+   }
+  },
+  {
+   "id": "nun-final",
+   "char": "ן",
+   "base": "ן",
+   "name": "Final nun",
+   "wp_name": "Nun",
+   "name_he": "נוּן סוֹפִית",
+   "name_ipa": "/nun sofit/",
+   "sound": "n",
+   "shape": "nun-final",
+   "note": "Final form: a long stroke below the line, used only at the end of a word.",
+   "final_of": "nun",
+   "final": null,
+   "example": {
+    "he": "נִין",
+    "tr": "nin",
+    "en": "great-grandson"
+   }
+  },
+  {
+   "id": "samekh",
+   "char": "ס",
+   "base": "ס",
+   "name": "Samekh",
+   "wp_name": "Samekh",
+   "name_he": "סָמֶךְ",
+   "name_ipa": "/ˈsamɛχ/",
+   "sound": "s",
+   "shape": "samekh",
+   "note": null,
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "סוֹף",
+    "tr": "sof",
+    "en": "end"
+   }
+  },
+  {
+   "id": "ayin",
+   "char": "ע",
+   "base": "ע",
+   "name": "Ayin",
+   "wp_name": "Ayin",
+   "name_he": "עַיִן",
+   "name_ipa": "/ajin/",
+   "sound": "",
+   "shape": "ayin",
+   "note": "Silent in most modern speech: it carries a vowel, like alef.",
+   "final_of": null,
+   "final": null,
+   "example": null
+  },
+  {
+   "id": "pe",
+   "char": "פּ",
+   "base": "פ",
+   "name": "Pe",
+   "wp_name": "Pe",
+   "name_he": "פֵּא",
+   "name_ipa": "/pe/",
+   "sound": "p",
+   "shape": "pe",
+   "note": "With the dot it is p.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "טִיפּ",
+    "tr": "tip",
+    "en": "tip"
+   }
+  },
+  {
+   "id": "fe",
+   "char": "פ",
+   "base": "פ",
+   "name": "Fe",
+   "wp_name": "Pe",
+   "name_he": "פֵא",
+   "name_ipa": "/fe/",
+   "sound": "f",
+   "shape": "pe",
+   "note": "Without the dot it is f, called fe.",
+   "final_of": null,
+   "final": "fe-final",
+   "example": {
+    "he": "פִסְפֵס",
+    "tr": "fisfés",
+    "en": "missed"
+   }
+  },
+  {
+   "id": "fe-final",
+   "char": "ף",
+   "base": "ף",
+   "name": "Final fe",
+   "wp_name": "Pe",
+   "name_he": "פֵא סוֹפִית",
+   "name_ipa": "/fe sofit/",
+   "sound": "f",
+   "shape": "pe-final",
+   "note": "Final form: used only at the end of a word.",
+   "final_of": "fe",
+   "final": null,
+   "example": {
+    "he": "פִסְפֵס",
+    "tr": "fisfés",
+    "en": "missed"
+   }
+  },
+  {
+   "id": "tsadi",
+   "char": "צ",
+   "base": "צ",
+   "name": "Tsadi",
+   "wp_name": "Tsadi",
+   "name_he": "צָדִי",
+   "name_ipa": "/ˈtsadi/",
+   "sound": "ts",
+   "shape": "tsadi",
+   "note": "Like ts in \"cats\".",
+   "final_of": null,
+   "final": "tsadi-final",
+   "example": {
+    "he": "צִיץ",
+    "tr": "tsits",
+    "en": "bud"
+   }
+  },
+  {
+   "id": "tsadi-final",
+   "char": "ץ",
+   "base": "ץ",
+   "name": "Final tsadi",
+   "wp_name": "Tsadi",
+   "name_he": "צָדִי סוֹפִית",
+   "name_ipa": "/ˈtsadi sofit/",
+   "sound": "ts",
+   "shape": "tsadi-final",
+   "note": "Final form: used only at the end of a word.",
+   "final_of": "tsadi",
+   "final": null,
+   "example": {
+    "he": "צִיץ",
+    "tr": "tsits",
+    "en": "bud"
+   }
+  },
+  {
+   "id": "qof",
+   "char": "ק",
+   "base": "ק",
+   "name": "Qof",
+   "wp_name": "Qof",
+   "name_he": "קוֹף",
+   "name_ipa": "/kuf/",
+   "sound": "k",
+   "shape": "qof",
+   "note": "Same sound as כּ (kaf) in modern Hebrew.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "קוֹל",
+    "tr": "kol",
+    "en": "sound"
+   }
+  },
+  {
+   "id": "resh",
+   "char": "ר",
+   "base": "ר",
+   "name": "Resh",
+   "wp_name": "Resh",
+   "name_he": "רֵישׁ",
+   "name_ipa": "/ʁeʃ/",
+   "sound": "r",
+   "shape": "resh",
+   "note": "A soft r made at the back of the throat, like French r.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "עִיר",
+    "tr": "ir",
+    "en": "city"
+   }
+  },
+  {
+   "id": "shin",
+   "char": "שׁ",
+   "base": "ש",
+   "name": "Shin",
+   "wp_name": "Shin",
+   "name_he": "שִׁין",
+   "name_ipa": "/ʃin/",
+   "sound": "sh",
+   "shape": "shin",
+   "note": "Dot on the right: sh.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "שָׁם",
+    "tr": "sham",
+    "en": "there"
+   }
+  },
+  {
+   "id": "sin",
+   "char": "שׂ",
+   "base": "ש",
+   "name": "Sin",
+   "wp_name": "Shin",
+   "name_he": "שִׂין",
+   "name_ipa": "/sin/",
+   "sound": "s",
+   "shape": "shin",
+   "note": "Dot on the left: s. Same letter, called sin.",
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "שָׂם",
+    "tr": "sam",
+    "en": "put"
+   }
+  },
+  {
+   "id": "tav",
+   "char": "ת",
+   "base": "ת",
+   "name": "Tav",
+   "wp_name": "Tav",
+   "name_he": "תָּו",
+   "name_ipa": "/tav/",
+   "sound": "t",
+   "shape": "tav",
+   "note": null,
+   "final_of": null,
+   "final": null,
+   "example": {
+    "he": "תּוּת",
+    "tr": "tut",
+    "en": "strawberry"
+   }
+  }
+ ],
+ "vowels": [
+  {
+   "id": "kamatz",
+   "shown": "בָ",
+   "mark": "ָ",
+   "carrier": null,
+   "name": "Kamatz",
+   "name_he": "קָמָץ גָּדוֹל",
+   "ipa": "[a]",
+   "wp_tr": "a",
+   "sound": "a",
+   "sound_label": "a",
+   "note": "A T-shape under the letter. Sounds a, as in \"father\"."
+  },
+  {
+   "id": "patach",
+   "shown": "בַ",
+   "mark": "ַ",
+   "carrier": null,
+   "name": "Patach",
+   "name_he": "פַּתָּח",
+   "ipa": "[a]",
+   "wp_tr": "a",
+   "sound": "a",
+   "sound_label": "a",
+   "note": "A short line under the letter. Also a: in modern Hebrew kamatz and patach sound the same."
+  },
+  {
+   "id": "holam",
+   "shown": "בֹ",
+   "mark": "ֹ",
+   "carrier": null,
+   "name": "Holam",
+   "name_he": "חוֹלָם",
+   "ipa": "[o̞]",
+   "wp_tr": "o",
+   "sound": "o",
+   "sound_label": "o",
+   "note": "A dot above the top left of the letter: o."
+  },
+  {
+   "id": "holam-male",
+   "shown": "בוֹ",
+   "mark": "ֹ",
+   "carrier": "וֹ",
+   "name": "Holam malei",
+   "name_he": "חוֹלָם מָלֵא",
+   "ipa": "[o̞]",
+   "wp_tr": "ō",
+   "sound": "o",
+   "sound_label": "o",
+   "note": "Vav with a dot on top, after the letter: also o. This is the form you will see most."
+  },
+  {
+   "id": "hiriq",
+   "shown": "בִ",
+   "mark": "ִ",
+   "carrier": null,
+   "name": "Hiriq",
+   "name_he": "חִירִיק",
+   "ipa": "[i]",
+   "wp_tr": "ī",
+   "sound": "i",
+   "sound_label": "i",
+   "note": "A dot under the letter: i, as in \"ski\"."
+  },
+  {
+   "id": "hiriq-male",
+   "shown": "בִי",
+   "mark": "ִ",
+   "carrier": "י",
+   "name": "Hiriq malei",
+   "name_he": "חִירִיק מָלֵא",
+   "ipa": "[i]",
+   "wp_tr": "ī",
+   "sound": "i",
+   "sound_label": "i",
+   "note": "Hiriq followed by yod: also i."
+  },
+  {
+   "id": "segol",
+   "shown": "בֶ",
+   "mark": "ֶ",
+   "carrier": null,
+   "name": "Segol",
+   "name_he": "סֶגּוֹל",
+   "ipa": "[e̞]",
+   "wp_tr": "e",
+   "sound": "e",
+   "sound_label": "e",
+   "note": "Three dots in a triangle under the letter: e, as in \"bed\"."
+  },
+  {
+   "id": "tsere",
+   "shown": "בֵ",
+   "mark": "ֵ",
+   "carrier": null,
+   "name": "Tsere",
+   "name_he": "צֵירֵי",
+   "ipa": "[e̞]",
+   "wp_tr": "e",
+   "sound": "e",
+   "sound_label": "e",
+   "note": "Two dots side by side under the letter: e too."
+  },
+  {
+   "id": "kubutz",
+   "shown": "בֻ",
+   "mark": "ֻ",
+   "carrier": null,
+   "name": "Kubutz",
+   "name_he": "קֻבּוּץ",
+   "ipa": "[u]",
+   "wp_tr": "u",
+   "sound": "u",
+   "sound_label": "u",
+   "note": "Three slanted dots under the letter: u, as in \"flute\"."
+  },
+  {
+   "id": "shuruk",
+   "shown": "בוּ",
+   "mark": "ּ",
+   "carrier": "וּ",
+   "name": "Shuruk",
+   "name_he": "שׁוּרוּק",
+   "ipa": "[u]",
+   "wp_tr": "ū",
+   "sound": "u",
+   "sound_label": "u",
+   "note": "Vav with a dot in its middle, after the letter: u. Much more common than kubutz."
+  },
+  {
+   "id": "shva",
+   "shown": "בְ",
+   "mark": "ְ",
+   "carrier": null,
+   "name": "Shva",
+   "name_he": "שְׁוָא",
+   "ipa": "[e̞] or Ø",
+   "wp_tr": "ə, e, ', or nothing",
+   "sound": "e",
+   "sound_label": "e or silent",
+   "note": "Two dots one above the other. Sometimes a short e, often silent."
+  },
+  {
+   "id": "hataf-patach",
+   "shown": "חֲ",
+   "mark": "ֲ",
+   "carrier": null,
+   "name": "Reduced patach",
+   "name_he": "חֲטַף פַּתָּח",
+   "ipa": "[a]",
+   "wp_tr": "a or á",
+   "sound": "a",
+   "sound_label": "a",
+   "note": "Shva joined with patach. A short a, mostly on throat letters like ח and ע."
+  },
+  {
+   "id": "hataf-segol",
+   "shown": "חֱ",
+   "mark": "ֱ",
+   "carrier": null,
+   "name": "Reduced segol",
+   "name_he": "חֲטַף סֶגּוֹל",
+   "ipa": "[e̞]",
+   "wp_tr": "e or é",
+   "sound": "e",
+   "sound_label": "e",
+   "note": "Shva joined with segol. A short e, mostly at the start of words with א."
+  },
+  {
+   "id": "hataf-kamatz",
+   "shown": "חֳ",
+   "mark": "ֳ",
+   "carrier": null,
+   "name": "Reduced kamatz",
+   "name_he": "חֲטַף קָמָץ",
+   "ipa": "[o̞]",
+   "wp_tr": "ŏ",
+   "sound": "o",
+   "sound_label": "o",
+   "note": "Shva joined with kamatz. A short o. Rare."
+  }
+ ],
+ "lookalikes": [
+  [
+   "vet",
+   "khaf"
+  ],
+  [
+   "dalet",
+   "resh",
+   "khaf-final"
+  ],
+  [
+   "he",
+   "het",
+   "tav"
+  ],
+  [
+   "vav",
+   "zayin",
+   "nun-final"
+  ],
+  [
+   "samekh",
+   "mem-final"
+  ],
+  [
+   "ayin",
+   "tsadi"
+  ],
+  [
+   "gimel",
+   "nun"
+  ],
+  [
+   "tet",
+   "mem"
+  ],
+  [
+   "bet",
+   "kaf",
+   "pe"
+  ]
+ ],
+ "source": [
+  "https://en.wikipedia.org/wiki/Hebrew_alphabet",
+  "https://en.wikipedia.org/wiki/Niqqud"
+ ]
+}
